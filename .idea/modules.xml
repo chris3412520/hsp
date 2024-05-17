@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/代码/QQClient/QQClient.iml" filepath="$PROJECT_DIR$/代码/QQClient/QQClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/代码/QQServer/QQServer.iml" filepath="$PROJECT_DIR$/代码/QQServer/QQServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/代码/chapter08/chapter08.iml" filepath="$PROJECT_DIR$/代码/chapter08/chapter08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/代码/chapter10/chapter10.iml" filepath="$PROJECT_DIR$/代码/chapter10/chapter10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/代码/chapter11/chapter11.iml" filepath="$PROJECT_DIR$/代码/chapter11/chapter11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/代码/chapter12/chapter12.iml" filepath="$PROJECT_DIR$/代码/chapter12/chapter12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/代码/chapter13/chapter13.iml" filepath="$PROJECT_DIR$/代码/chapter13/chapter13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/代码/chapter14/chapter14.iml" filepath="$PROJECT_DIR$/代码/chapter14/chapter14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/代码/chapter15/chapter15.iml" filepath="$PROJECT_DIR$/代码/chapter15/chapter15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/代码/chapter16/chapter16.iml" filepath="$PROJECT_DIR$/代码/chapter16/chapter16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/代码/chapter17/chapter17.iml" filepath="$PROJECT_DIR$/代码/chapter17/chapter17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/代码/chapter18/chapter18.iml" filepath="$PROJECT_DIR$/代码/chapter18/chapter18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/代码/chapter19/chapter19.iml" filepath="$PROJECT_DIR$/代码/chapter19/chapter19.iml" />
+      <module fileurl="file://$PROJECT_DIR$/代码/chapter20/chapter20.iml" filepath="$PROJECT_DIR$/代码/chapter20/chapter20.iml" />
+      <module fileurl="file://$PROJECT_DIR$/代码/chapter21/chapter21.iml" filepath="$PROJECT_DIR$/代码/chapter21/chapter21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/代码/chapter23/chapter23.iml" filepath="$PROJECT_DIR$/代码/chapter23/chapter23.iml" />
+      <module fileurl="file://$PROJECT_DIR$/代码/chapter25/chapter25.iml" filepath="$PROJECT_DIR$/代码/chapter25/chapter25.iml" />
+      <module fileurl="file://$PROJECT_DIR$/代码/chapter27/chapter27.iml" filepath="$PROJECT_DIR$/代码/chapter27/chapter27.iml" />
+      <module fileurl="file://$PROJECT_DIR$/代码/chapter28/chapter28.iml" filepath="$PROJECT_DIR$/代码/chapter28/chapter28.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/hsp.iml" filepath="$PROJECT_DIR$/.idea/hsp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/代码/javacode/javacode.iml" filepath="$PROJECT_DIR$/代码/javacode/javacode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/代码/mhl/mhl.iml" filepath="$PROJECT_DIR$/代码/mhl/mhl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/代码/代码.iml" filepath="$PROJECT_DIR$/代码/代码.iml" />
+    </modules>
+  </component>
+</project>
