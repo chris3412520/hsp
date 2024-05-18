@@ -4,19 +4,28 @@ public class Person {//父类
     private String name;
     private int age;
 
-    public Person(String name, int age) {
-        this.name = name;
-        this.age = age;
+//    public Person(String name, int age) {
+//        this.name = name;
+//        this.age = age;
+//    }
+    public Person(String name,int age){
+        this.name=name;
+        this.age=age;
     }
 
-    public String getName() {
+//    public String getName() {
+//        return name;
+//    }
+//
+//    public void setName(String name) {
+//        this.name = name;
+//    }
+    public String getName(){
         return name;
     }
-
-    public void setName(String name) {
-        this.name = name;
+    public void setName(String name){
+        this.name=name;
     }
-
     public int getAge() {
         return age;
     }
