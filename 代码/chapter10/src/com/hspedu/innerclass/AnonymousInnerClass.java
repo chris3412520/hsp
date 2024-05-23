@@ -34,7 +34,13 @@ class Outer04 { //外部类
         //7. jdk底层在创建匿名内部类 Outer04$1,立即马上就创建了 Outer04$1实例，并且把地址
         //   返回给 tiger
         //8. 匿名内部类使用一次，就不能再使用
-        IA tiger = new IA() {
+//        IA tiger = new IA() {
+//            @Override
+//            public void cry() {
+//                System.out.println("老虎叫唤...");
+//            }
+//        };
+        IA tiger=new IA() {
             @Override
             public void cry() {
                 System.out.println("老虎叫唤...");
